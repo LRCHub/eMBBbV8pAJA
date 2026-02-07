@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Nikoん - bend（Official Music Video）",
+  "base_artist": "Nikoん",
+  "createdAt": "2026-02-07T07:38:44.819960Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "bend",
+      "artist": "Nikoん",
+      "has_synced": false,
+      "path": "select/pl_01_bend_Nikoん.txt"
+    }
+  ]
+}
